@@ -24,4 +24,4 @@ Construction of the field of optimal trajectories:
 * [D-2. Field of optimal trajectories for different time horizons [Python].ipynb](https://nbviewer.jupyter.org/github/aakhmetz/AkhmKim2019Scripts/blob/master/scripts/D-2.%20Field%20of%20optimal%20trajectories%20for%20different%20time%20horizons%20%5BPython%5D.ipynb)
 
 Lastly, generation of last two figures (possibly the naming is incorrect):
-* [E. Figures 6 and 7 [R].ipynb](aakhmetz/AkhmKim2019Scripts/blob/master/scripts/E.%20Figures%206%20and%207%20%5BR%5D.ipynb)
+* [E. Figures 6 and 7 [R].ipynb](https://nbviewer.jupyter.org/github/aakhmetz/AkhmKim2019Scripts/blob/master/scripts/E.%20Figures%206%20and%207%20%5BR%5D.ipynb)
